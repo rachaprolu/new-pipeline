@@ -1,0 +1,11 @@
+         --------------
+------------ WELCOME TO MY DEVOPS WORLD  ----------------------------
+
+Hi my dear block gemini collegues, if your are able to to see this page that means i successfully completed my CI CD pipeline using jenkins and docker.
+
+
+
+
+           
+                                                    
+                                                             Thank you.
